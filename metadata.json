@@ -1,0 +1,6 @@
+{
+  "name": "创客厅 (SparkLab Community)",
+  "description": "全世界的提问者联合起来。我们在杭州构建的一个由问题驱动的创新者和创业者会客厅社区官网。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
